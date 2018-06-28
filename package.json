@@ -43,7 +43,7 @@
       "core-js": "^2.0.3"
     }
   },
-  "dependencies": {
+  "peerDependencies": {
     "aurelia-metadata": "^1.0.0",
     "aurelia-pal": "^1.0.0"
   },
